@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-from paket import sys, def1, def2, def3, def4
+from paket import def1, def2, def3, def4
+import sys
 
 if __name__ == '__main__':
 
